@@ -1,0 +1,17 @@
+# ignore cache
+__pycache__
+
+# virtual env files
+/ipl
+
+# environment variables
+.env
+
+# data files
+*.csv
+*.db
+
+# deployment files
+Procfile
+
+
